@@ -17,6 +17,6 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 - Governance
 
 ## License
-You are free to reuse, share, and modify the contents of this repository under the terms of the [Creative Commons Attribution 4.0 license](LICENSE.md).
+You are free to reuse, share, and modify the contents of this repository under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 **Note**: This repository is inspired by the great folk over at [Fatiando](https://github.com/fatiando/community/tree/main).
